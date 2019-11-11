@@ -1,5 +1,5 @@
 # MC536 - Trabalho
-Trabalho de MC536 - Bancos de Dados: Teoria e Prática, 2º Semestre de 2019 - Prof. Andre Santanche
+Trabalho de MC536 - Bancos de Dados: Teoria e Prática, 2º Semestre de 2019 - Prof. André Santanchè
 
 ### Grupo
 * __Dupla LPT:__
