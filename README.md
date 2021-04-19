@@ -1,4 +1,4 @@
-# MC536 - Trabalho
+# MC536 - Bancos de Dados: Teoria e Prática
 Trabalho de MC536 - Bancos de Dados: Teoria e Prática, 2º Semestre de 2019 - Prof. André Santanchè
 
 ### Grupo
@@ -8,4 +8,3 @@ Trabalho de MC536 - Bancos de Dados: Teoria e Prática, 2º Semestre de 2019 - P
 * __Dupla JSS:__
   * Gabriel De Alcantara Bomfim Silveira - 197244
   * Vitor Coppo Ferreira - 206956
-
